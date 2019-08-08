@@ -9,7 +9,7 @@
         <module name="review-all" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="review-all" target="1.8" />
     </bytecodeTargetLevel>
   </component>
