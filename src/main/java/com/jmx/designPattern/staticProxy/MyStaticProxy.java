@@ -1,4 +1,4 @@
-package com.jmx.designPattern;
+package com.jmx.designPattern.staticProxy;
 
 /**
  * 静态代理类

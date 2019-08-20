@@ -1,4 +1,4 @@
-package com.jmx.designPattern;
+package com.jmx.designPattern.staticProxy;
 
 /**
  * 安卓实现类，可以实现相关的功能
