@@ -5,7 +5,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * CountDownLatch，门闩控制并非
+ * CountDownLatch，门闩控制并发
  * 重点： 一个线程等待await，等待其他N个线程完成某件事情后（countDown）执行
  * 与CyclicBarrier区别：不能重复使用已使用的障碍，同时一个线程等待N个线程之后执行
  */
@@ -32,6 +32,7 @@ public class CountDownLatchDemo2 {
         es.shutdown();
     }
 
+    //执行线程类
     private static class CountDownLatchTask implements Runnable{
         private final CountDownLatch latch;
         private final String threadName;

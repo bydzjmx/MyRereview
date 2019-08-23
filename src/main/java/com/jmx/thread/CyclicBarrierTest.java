@@ -7,7 +7,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * CyclicBarrier，当给定数量的线程等待时触发，同时解锁
+ * CyclicBarrier，循环barrier，当给定数量的线程等待时触发，同时解锁
  */
 public class CyclicBarrierTest {
     private static final int THREAD_NUM = 10;
@@ -28,6 +28,7 @@ public class CyclicBarrierTest {
         es.shutdown();
     }
 
+    //线程执行类
     static class CyclicBarrierTask implements Runnable{
         private CyclicBarrier cyclicBarrier;
         private String threadName;
