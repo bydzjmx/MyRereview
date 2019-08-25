@@ -3,13 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="4731dda5-bea6-4e42-acf0-08bc1ff0a8f5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review-all.iml" beforeDir="false" afterPath="$PROJECT_DIR$/review-all.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/AndroidMobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/AndroidMobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/MobilePhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/MyStaticProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/MyStaticProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/AndroidMobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/MyStaticProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/MyAirShipBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/MyAirShipBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/MyAirShipDirector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/MyAirShipDirector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/builder/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowSeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowSeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LowType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxurySeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxurySeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jmx/designPattern/factory/abstractFactory/LuxuryType.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,123 +29,58 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/LuxuryFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/search/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="418">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/Seat.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/PrintRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1518">
+              <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/Type.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="814">
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/LowFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/Alipay.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/BalancePay.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CyclicBarrierTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/PayFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/PaymentMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/WechatPay.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/TurtleRabbitRace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="214">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,21 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/Test2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/Print.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/MainAndSub.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/MyBlockingQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/Philosopher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/DeadLock2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/MyCountDownLatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CyclicBarrierTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/algorithm/StringReverse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/algorithm/SubString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/Philo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/AndroidMobilePhone.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/Hungry.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/StaticInnerClass.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/HungrySingleton.java" />
@@ -214,6 +138,21 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/Type.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/LuxuryFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/abstractFactory/LowFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Target.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Adaptee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Adapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/Coordinate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ConcreteFlyWeight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ChessFlyWeightFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ChessFlyWeight.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/Test3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/PrintRunnable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/CyclicBarrierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jmx/thread/TurtleRabbitRace.java" />
       </list>
     </option>
   </component>
@@ -239,10 +178,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="1945" />
-    <option name="height" value="1050" />
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -252,8 +191,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,6 +234,33 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jmx" type="462c0819:PsiDirectoryNode" />
               <item name="designPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="review-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRereview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jmx" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="review-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRereview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jmx" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="review-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyRereview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jmx" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -339,13 +305,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.factory.abstractFactory.Client" />
+  <component name="RunManager" selected="Application.TurtleRabbitRace">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.adapter.Client" />
       <module name="review-all" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jmx.designPattern.factory.abstractFactory.*" />
+          <option name="PATTERN" value="com.jmx.designPattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,25 +319,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.factory.factoryMethod.Test" />
+    <configuration name="PrintRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jmx.thread.handWritten.PrintRunnable" />
       <module name="review-all" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jmx.designPattern.factory.factoryMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.builder.Test" />
-      <module name="review-all" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jmx.designPattern.builder.*" />
+          <option name="PATTERN" value="com.jmx.thread.handWritten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,11 +346,24 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.factory.simpleFactory.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.jmx.designPattern.flyweight.Test" />
       <module name="review-all" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jmx.designPattern.factory.simpleFactory.*" />
+          <option name="PATTERN" value="com.jmx.designPattern.flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleRabbitRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jmx.thread.TurtleRabbitRace" />
+      <module name="review-all" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jmx.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -407,11 +373,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.TurtleRabbitRace" />
+        <item itemvalue="Application.PrintRunnable" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Test (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -449,18 +415,22 @@
       <workItem from="1565751069687" duration="1828000" />
       <workItem from="1565839377511" duration="764000" />
       <workItem from="1566180318608" duration="14235000" />
-      <workItem from="1566306269257" duration="930000" />
+      <workItem from="1566306269257" duration="4785000" />
+      <workItem from="1566346462110" duration="599000" />
+      <workItem from="1566391319049" duration="8642000" />
+      <workItem from="1566694005506" duration="106000" />
+      <workItem from="1566745804912" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91580000" />
+    <option name="totallyTimeSpent" value="106695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22386059" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2419571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -470,7 +440,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.48725212" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.34560907" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -500,167 +470,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/algorithm/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="112" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/algorithm/LadderPro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/algorithm/ExchangeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/algorithm/StringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/algorithm/SubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/Philo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/Philosopher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1606">
-          <caret line="73" column="39" selection-start-line="71" selection-start-column="7" selection-end-line="73" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/collections/myArraylist/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/collections/myArraylist/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/sort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/search/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/AndroidMobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/staticProxy/MyStaticProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/StaticInnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/HungrySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="method#Hungry#0;class#Hungry#0" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/singleton/EnumSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/simpleFactory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/simpleFactory/Audi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -911,7 +720,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/PaymentMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -925,7 +734,168 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/factory/application/pay/WechatPay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/others/Salt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/MyAtomicIntegerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/MyBlockingQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/Philosopher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Adaptee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/adapter/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/Coordinate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ChessFlyWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ChessFlyWeightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/designPattern/flyweight/ConcreteFlyWeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/search/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/handWritten/PrintRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/CyclicBarrierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jmx/thread/TurtleRabbitRace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
